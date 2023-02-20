@@ -1,0 +1,4 @@
+In your repository, browse to the file you want to edit.
+In the upper right corner of the file view, click to open the file editor. ...
+On the Edit file tab, make any changes you need to the file.
+Above the new content, click Preview changes.

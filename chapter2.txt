@@ -1,0 +1,1 @@
+You need to add the file name after the “cat” keyword in the particular directory to open a file. You can see the data within the newfile. txt has been displayed in our shell. The “-n” option allows you to give the cat command instructions.
